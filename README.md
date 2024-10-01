@@ -1,5 +1,6 @@
 **1. Model Fine-tuning**
 We will:
+
 . Load the dataset.
 . Choose between gemma-7b-it or gemma-2b-it models (based on system limitations).
 . Split the data into 300 samples for training and 30 for evaluation.
